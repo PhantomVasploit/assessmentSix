@@ -59,7 +59,7 @@ input[type="submit"]{
     align-self: center;
 }
 
-.fname, /{
+.fname, .lname{
     gap: 20px;
     display: flex;
     align-items: center;
